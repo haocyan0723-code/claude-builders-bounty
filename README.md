@@ -1,4 +1,4 @@
-# Claude Builders Bounty 🤖
+﻿# Claude Builders Bounty 🤖
 
 > A community bounty board for Claude Code builders.
 
@@ -44,7 +44,6 @@ Install it in 2 commands:
 mkdir -p ~/.claude/hooks && cp .claude/hooks/block-destructive-commands.py ~/.claude/hooks/
 cp .claude/settings.example.json ~/.claude/settings.json
 ```
-
 ---
 
 ## Rules
