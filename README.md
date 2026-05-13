@@ -1,4 +1,4 @@
-# Claude Builders Bounty 🤖
+﻿# Claude Builders Bounty 🤖
 
 > A community bounty board for Claude Code builders.
 
@@ -37,7 +37,6 @@ You're in the right place.
 ## Templates
 
 - [Next.js + SQLite SaaS CLAUDE.md](templates/nextjs-sqlite-saas/CLAUDE.md)
-
 ---
 
 ## Rules
